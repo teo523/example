@@ -2,7 +2,7 @@
 Repository for the source material for the Spanish translation of Getting Started with p5.js. The book is now available on [processingfoundation.press](https://processingfoundation.press/). A physical copy of the book can be ordered [here](https://www.amazon.com/Introducci%C3%B3n-p5-js-Spanish-Lauren-McCarthy/dp/0999881302).
 
 ## Production
-The following contains documentation for setting up the project locally in order to generate PDF builds for upcoming versions and changes.
+The following contains documentation for setting up the project locally in oddddrder to generate PDF builds for upcoming versions and changes.
 
 ### Getting Started
 First, clone this repository with the following using terminal:
