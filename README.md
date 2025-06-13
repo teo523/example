@@ -8,7 +8,7 @@ The following contains documentation for setting up the project locally in order
 First, clone this repository with the following using terminal:
 ```bash
 git clone https://github.com/processing/p5.js-getting-started-es.git
-```
+```ddd
 As we will be using [magicbook](https://github.com/magicbookproject/magicbook) for this project, make sure to install the `magicbook` package:
 ```bash
 npm install magicbook -g
